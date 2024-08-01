@@ -50,13 +50,10 @@ AtliQ aimed to incorporate Business and Data Intelligence to identify and track 
 ### Conclusion
 The revenue dashboard provided a comprehensive visual representation of AtliQ's key performance indicators. It facilitated both high-level and in-depth analysis, helping the management make data-driven decisions to improve market share and revenue.
 
-## Screenshots
-- Include screenshots of your dashboard here.
-
 ## Repository Contents
 - `README.md`: Project overview and details.
 - `Atliq_Grand_Revenue_Analysis.pbix`: Power BI file.
-- `Presentation.pptx`: Project presentation.
+- `Snip of Dashboard`: PNG file
 
 ## How to Use
 1. Download the `.pbix` file and open it in Power BI Desktop.
